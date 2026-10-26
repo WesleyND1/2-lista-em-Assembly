@@ -11,7 +11,7 @@ Repositório destinado ao armazenamento e organização das resoluções da **2�
 
 ---
 
-## 📋 Exercícios Resolvidos
+## Exercícios Resolvidos
 
 | Arquivo | Descrição |
 | :--- | :--- |
